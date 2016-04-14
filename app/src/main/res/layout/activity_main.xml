@@ -67,11 +67,12 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/str_result"
-        android:id="@+id/textView"
-        android:layout_marginBottom="56dp"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
+        android:text="> 계산 결과 : "
+        android:id="@+id/text_result"
+        android:layout_marginTop="43dp"
         android:textSize="30sp"
-        android:textColor="#8d0000" />
+        android:layout_below="@+id/but_multiply"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textColor="#9a0000" />
 </RelativeLayout>
