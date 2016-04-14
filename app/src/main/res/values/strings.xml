@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">계산기</string>
+    <string name="str_plus">더하기</string> <!--그냥 문자쓰면 약간 워닝-->
+    <string name="str_minus">빼기</string>
+    <string name="str_divide">나누기</string>
+    <string name="str_multiply">곱하기</string>
+    <string name="str_result"><![CDATA[> 계산 결과 :]]></string>
+</resources>
